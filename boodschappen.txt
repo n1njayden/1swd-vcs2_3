@@ -7,8 +7,7 @@ water
 pindakaas
 pepernoten
 wcpapier
-brood
-boter
-kaas
-eieren
-vis
+kalkoen
+pesto
+champagne
+tiramisu
